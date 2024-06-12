@@ -1,6 +1,6 @@
 # MySql_Filter
 
-## Made By Cristopher Buitrago Database: **Tech Haven**
+## Made By Cristopher Buitrago (Database: **Tech Haven**)
 
 ### Consultas
 

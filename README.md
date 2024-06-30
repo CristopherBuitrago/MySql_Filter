@@ -1,4 +1,5 @@
-# MySql_Filter
+# Tech_Haven
+A database made for a little company called Tech Haven.
 
 ## Made By Cristopher Buitrago (Database: **Tech Haven**)
 
